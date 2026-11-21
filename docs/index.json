@@ -7,7 +7,7 @@
         "id": "install",
         "title": "설치 및 최초 실행",
         "lead": "Windows와 macOS에서 Penso를 설치하는 방법입니다.",
-        "file": "install.md"
+        "file": "start/install.md"
       }
     ]
   },
